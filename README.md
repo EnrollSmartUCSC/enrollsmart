@@ -53,4 +53,4 @@ The backend is hosted on an AWS EC2 instance while the database is hosted on AWS
 -  react-dom
 -  tailwind-merge
 #### hosting
-Hosting is done on AWS Amplify by Domain name by name.com
+Hosting is done on AWS Amplify by Domain name by [https://name.com]{https://name.com}

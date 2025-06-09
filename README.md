@@ -28,6 +28,8 @@ pip3 install -r ./requirements.txt
 - flasgger
 - beautifulsoup4
 - regex
+#### hosting
+The backend is hosted on an AWS EC2 instance while the database is hosted on AWS RDS as a PostgreSQL instance.
 ### Frontend
 #### dependencies and requirements
 -  @dnd-kit/core
@@ -50,3 +52,5 @@ pip3 install -r ./requirements.txt
 -  react
 -  react-dom
 -  tailwind-merge
+#### hosting
+Hosting is done on AWS Amplify by Domain name by name.com

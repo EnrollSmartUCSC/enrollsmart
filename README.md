@@ -11,6 +11,14 @@ Enroll Smart is a simple solution to enrollment problems at UCSC. Students can u
 ## Architecture
 ### Backend
 #### dependencies and requirements
+All the dependencies stated below can be installed by running the following commands in `/backend`
+```bash
+# if python venv not created
+python3 venv <venv_name>
+---------------------------------
+source <venv_name>/bin/activate
+pip3 install -r ./requirements.txt
+```
 - Flask
 - flask-cors
 - firebase-admin
@@ -20,3 +28,5 @@ Enroll Smart is a simple solution to enrollment problems at UCSC. Students can u
 - flasgger
 - beautifulsoup4
 - regex
+### Frontend
+#### dependencies and requirements

@@ -15,7 +15,7 @@ All the dependencies stated below can be installed by running the following comm
 ```bash
 # if python venv not created
 python3 venv <venv_name>
----------------------------------
+# ---------------------------------
 source <venv_name>/bin/activate
 pip3 install -r ./requirements.txt
 ```
@@ -30,3 +30,23 @@ pip3 install -r ./requirements.txt
 - regex
 ### Frontend
 #### dependencies and requirements
+-  @dnd-kit/core
+-  @emotion/react
+-  @emotion/styled
+-  @mui/icons-material
+-  @mui/material
+-  @radix-ui/react-scroll-area
+-  @radix-ui/react-select
+-  @radix-ui/react-slot
+-  @radix-ui/react-switch
+-  @radix-ui/react-tabs
+-  antd
+-  class-variance-authority
+-  clsx
+-  firebase
+-  lucide-react
+-  next
+-  next-auth
+-  react
+-  react-dom
+-  tailwind-merge
